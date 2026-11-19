@@ -39,7 +39,6 @@ Sempre:
 
 
 
-## 3. Nome do prompt
 ## 3. Investimentos para iniciante
 
 **Para que serve:** entender como começar a investir no Brasil, com segurança.
@@ -60,4 +59,4 @@ Formato: tabela com 3 colunas (nome, como funciona, para quem serve).
 
 Se não souber ou tiver dúvida, me pergunte. Não invente estatísticas nem promessas. Cite a fonte e a data de cada informação.
 
-**O que aprendi:** **O que aprendi:** Usar os 5 ingredientes (papel, contexto, tarefa, exemplo e formato) deixa o prompt claro e objetivo. E a trava "não invente, cite a fonte" reduz a alucinação.
+**O que aprendi:** Usar os 5 ingredientes (papel, contexto, tarefa, exemplo e formato) deixa o prompt claro e objetivo. E a trava "não invente, cite a fonte" reduz a alucinação.
